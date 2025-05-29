@@ -2,7 +2,9 @@
 
 const CompanionsLibrary = () => {
   return (
-    <div>CompanionsLibrary</div>
+    <div>
+      
+    </div>
   )
 }
 
